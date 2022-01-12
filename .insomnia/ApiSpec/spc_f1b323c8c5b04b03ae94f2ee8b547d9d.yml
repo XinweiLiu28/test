@@ -1,0 +1,10 @@
+_id: spc_f1b323c8c5b04b03ae94f2ee8b547d9d
+type: ApiSpec
+parentId: wrk_f6efa5d5f0c5487d86aab047afe373d1
+modified: 1641973193406
+created: 1641972644892
+fileName: my-spec.yaml
+contents: |-
+  branch main
+  changed to test2 branch
+contentType: yaml
